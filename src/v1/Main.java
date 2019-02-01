@@ -1,15 +1,18 @@
+package v1;
+
 import java.util.List;
 
 /**
- * Main class of the program.
+ * v1.Main class of the program.
  */
 public class Main {
 
     /**
-     * Main method of the program.
+     * v1.Main method of the program.
      * @param args Received arguments.
      */
     public static void main(String[] args) {
+        long startTime = System.nanoTime();
         //Instantiates a new generator.
         DoorNumberGenerator generator = new DoorNumberGenerator();
 
@@ -29,5 +32,7 @@ public class Main {
 
         //Print the final list of valid configurations for door numbers.
         DoorNumberGenerator.printNumbers(numbers);
+        long endTime = System.nanoTime();
+        System.out.println("Exec time: "+(endTime - startTime) + " ms.");
     }
 }

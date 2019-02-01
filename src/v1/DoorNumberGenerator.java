@@ -1,3 +1,5 @@
+package v1;
+
 import java.util.*;
 
 
@@ -24,7 +26,7 @@ public class DoorNumberGenerator {
      * Calculates the valid door numbers of each validator and adds them to the validator's internal list of valid numbers.
      */
     public void calculateDoorNumbers() {
-        //Main loop to check every number.
+        //v1.Main loop to check every number.
         for (int i = MIN_DOOR_NUMBER; i <= MAX_DOOR_NUMBER; i++) {
             for (ANumberValidator validator : validators) {
                 if (validator.validateNumber(i)) {
