@@ -6,7 +6,7 @@ package v2;
 public class Main {
 
     /**
-     * v1.Main method of the program.
+     * v2.Main method of the program.
      * @param args Received arguments.
      */
     public static void main(String[] args) {
