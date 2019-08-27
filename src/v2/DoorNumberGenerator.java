@@ -10,12 +10,12 @@ public class DoorNumberGenerator {
 
     //Static configuration variables.
     private final static int MIN_DOOR_NUMBER = 1;
-    private final static int MAX_DOOR_NUMBER = 99;
+    private final static int MAX_DOOR_NUMBER = 11;
 
     //List of validators for internal use.
     private List<INumberValidatorStrategy> validators;
     private PossibleNumberListsMap numbersListMap;
-    private RecursivePermutationStrategy permutationStrategy;
+    private IPermutationStrategy permutationStrategy;
 
     /**
      * Constructor - Initializes the validator list.
@@ -71,11 +71,11 @@ public class DoorNumberGenerator {
         this.validators.add(validator);
     }
 
-    public RecursivePermutationStrategy getPermutationStrategy() {
+    public IPermutationStrategy getPermutationStrategy() {
         return permutationStrategy;
     }
 
-    public void setPermutationStrategy(RecursivePermutationStrategy permutationStrategy) {
+    public void setPermutationStrategy(IPermutationStrategy permutationStrategy) {
         this.permutationStrategy = permutationStrategy;
     }
 }

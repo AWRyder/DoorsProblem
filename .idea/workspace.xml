@@ -5,30 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b23a3663-9930-474f-8977-3439f8f99e8b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v2/CourtNumberValidatorStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v2/DoorNumberGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v2/FireChiefNumberValidatorStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v2/INumberValidatorStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v2/IPermutationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v2/PossibleNumberListsMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v2/RecursivePermutationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v2/SheriffNumberValidatorStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v2/PreCalculationPermutationStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DoorsProblem/ANumberValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DoorsProblem/CourtNumberValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DoorsProblem/DoorNumberGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DoorsProblem/FireChiefNumberValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DoorsProblem/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DoorsProblem/SheriffNumberValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ANumberValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v1/ANumberValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CourtNumberValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v1/CourtNumberValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DoorNumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v1/DoorNumberGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FireChiefNumberValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v1/FireChiefNumberValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SheriffNumberValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v1/SheriffNumberValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v2/DoorNumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v2/DoorNumberGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v2/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,26 +17,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/v1/DoorNumberGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-221">
-              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-              <folding>
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/v2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="24" column="68" lean-forward="true" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+            <state relative-caret-position="187">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -64,31 +45,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/v2/DoorNumberGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="50" column="44" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
-              <folding>
-                <element signature="e#2459#2460#0" expanded="true" />
-                <element signature="e#6525#6526#0" expanded="true" />
-                <element signature="e#6567#6568#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="783">
+              <caret line="81" selection-start-line="81" selection-end-line="81" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/v2/IPermutationStrategy.java">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/v2/RecursivePermutationStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="41" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="41" />
+            <state relative-caret-position="374">
+              <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,50 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/v2/PossibleNumberListsMap.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/v2/PreCalculationPermutationStrategy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/v2/SheriffNumberValidatorStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/v2/FireChiefNumberValidatorStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/v2/CourtNumberValidatorStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/v2/INumberValidatorStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -149,14 +77,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Joiner</find>
+      <find>@FunctionalInterface</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -173,26 +102,28 @@
         <option value="$PROJECT_DIR$/src/DoorNumberGenerator.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/ANumberValidator.java" />
-        <option value="$PROJECT_DIR$/src/v1/Main.java" />
         <option value="$PROJECT_DIR$/src/v2/ANumberValidator.java" />
         <option value="$PROJECT_DIR$/src/v2/ANumberValidatorStrategy.java" />
         <option value="$PROJECT_DIR$/src/v2/CourtNumberValidatorStrategy.java" />
-        <option value="$PROJECT_DIR$/src/v2/FireChiefNumberValidatorStrategy.java" />
         <option value="$PROJECT_DIR$/src/v2/SheriffNumberValidatorStrategy.java" />
         <option value="$PROJECT_DIR$/src/v2/PossibleNumberListsMap.java" />
         <option value="$PROJECT_DIR$/src/v2/INumberValidatorStrategy.java" />
         <option value="$PROJECT_DIR$/src/v2/IPermutationStrategy.java" />
         <option value="$PROJECT_DIR$/src/v2/RecursivePermutationStrategy.java" />
+        <option value="$PROJECT_DIR$/src/v1/Main.java" />
+        <option value="$PROJECT_DIR$/src/v2/FireChiefNumberValidatorStrategy.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" />
         <option value="$PROJECT_DIR$/src/v2/DoorNumberGenerator.java" />
+        <option value="$PROJECT_DIR$/src/v2/PreCalculationPermutationStrategy.java" />
+        <option value="$PROJECT_DIR$/src/v2/TriFunction.java" />
         <option value="$PROJECT_DIR$/src/v2/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="54" />
-    <option name="y" value="-8" />
-    <option name="width" value="2514" />
-    <option name="height" value="1096" />
+    <option name="x" value="-7" />
+    <option name="width" value="1045" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -216,12 +147,6 @@
               <item name="DoorsProblem" type="b2602c69:ProjectViewProjectNode" />
               <item name="DoorsProblem" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="v1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DoorsProblem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DoorsProblem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="v2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -232,23 +157,26 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="v2" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\joaof\git\DoorsProblem\src\v2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="v2" />
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\joaof\git\DoorsProblem\src\v2" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="v2" />
     </key>
   </component>
   <component name="Regex">
@@ -330,6 +258,19 @@
       </Profilers>
       <method />
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v2.Main" />
+      <module name="DoorsProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="v1.Main" />
       <module name="DoorsProblem" />
@@ -359,6 +300,7 @@
           <option name="containerStateName" value="" />
         </value>
       </option>
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
@@ -371,6 +313,7 @@
           <option name="containerStateName" value="" />
         </value>
       </option>
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
       <properties />
@@ -389,8 +332,16 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -430,6 +381,7 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
       <properties />
@@ -450,10 +402,12 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Java Scratch.Scratch" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Java Scratch.Scratch" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -470,18 +424,35 @@
       <updated>1501624209823</updated>
       <workItem from="1501624216637" duration="26714000" />
       <workItem from="1501797099492" duration="915000" />
-      <workItem from="1548780232231" duration="5495000" />
+      <workItem from="1548780232231" duration="8463000" />
+      <workItem from="1549278010336" duration="5263000" />
+      <workItem from="1549448015999" duration="9989000" />
+      <workItem from="1549625885382" duration="3111000" />
+      <workItem from="1549640805033" duration="571000" />
+      <workItem from="1549876512564" duration="594000" />
+      <workItem from="1550065995137" duration="862000" />
+      <workItem from="1550067484329" duration="1190000" />
+      <workItem from="1550135852025" duration="1790000" />
+      <workItem from="1550481685843" duration="1224000" />
+      <workItem from="1550757489994" duration="3803000" />
     </task>
+    <task id="LOCAL-00001" summary="Added v2.&#10;Improved structure.&#10;Improved performance.">
+      <created>1549020824714</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549020824714</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33124000" />
+    <option name="totallyTimeSpent" value="64489000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1705757" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12953092" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -489,15 +460,10 @@
       <window_info id="Image Layers" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="UI Designer" order="7" />
-      <window_info anchor="bottom" id="Websocket Client" />
-      <window_info anchor="bottom" id="Regex" />
-      <window_info anchor="bottom" id="Tail" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32690248" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978904" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32690248" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -505,8 +471,11 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32911393" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Mongo Explorer" />
+      <window_info anchor="bottom" id="Websocket Client" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Regex" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Tail" order="15" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -514,13 +483,22 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Properties" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
+      <window_info active="true" anchor="right" id="Database" order="7" visible="true" weight="0.32995737" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="right" id="Maven" order="10" />
+      <window_info anchor="right" id="Mongo Explorer" order="11" />
+      <window_info anchor="right" id="CodeMR" order="12" />
+      <window_info anchor="right" id="CodeMR Metrics" order="13" />
+      <window_info anchor="right" id="SciView" order="14" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added v2.&#10;Improved structure.&#10;Improved performance." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added v2.&#10;Improved structure.&#10;Improved performance." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -537,12 +515,38 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/v2/PreCalculationPermutationStrategy.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>triTest((integer, integer2, integer3) -&gt; integer + integer2 + integer3 + &quot;&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>removeDuplicates(results)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/v1/FireChiefNumberValidator.java">
@@ -556,13 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="35" column="73" selection-start-line="34" selection-start-column="8" selection-end-line="35" selection-end-column="73" />
         </state>
       </provider>
     </entry>
@@ -583,21 +580,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/v1/DoorNumberGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/v2/INumberValidatorStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-          <folding>
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2/CourtNumberValidatorStrategy.java">
+    <entry file="file://$PROJECT_DIR$/src/v1/DoorNumberGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="2244">
+          <caret line="134" column="5" selection-start-line="134" selection-start-column="5" selection-end-line="134" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v2/IPermutationStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="554" selection-start-line="554" selection-end-line="554" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5542">
+          <caret line="380" selection-start-line="380" selection-end-line="380" />
         </state>
       </provider>
     </entry>
@@ -610,39 +631,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/v2/PossibleNumberListsMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        <state relative-caret-position="68">
+          <caret line="6" column="76" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2/INumberValidatorStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2/IPermutationStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/v2/FireChiefNumberValidatorStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v2/CourtNumberValidatorStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/v2/RecursivePermutationStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="41" />
+        <state relative-caret-position="459">
+          <caret line="72" column="5" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="72" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -651,20 +665,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/v2/DoorNumberGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="50" column="44" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+        <state relative-caret-position="783">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v2/TriFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/function/BiFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
           <folding>
-            <element signature="e#2459#2460#0" expanded="true" />
-            <element signature="e#6525#6526#0" expanded="true" />
-            <element signature="e#6567#6568#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/v2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="24" column="68" lean-forward="true" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+        <state relative-caret-position="187">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v2/PreCalculationPermutationStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
