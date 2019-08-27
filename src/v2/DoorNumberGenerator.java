@@ -10,7 +10,7 @@ public class DoorNumberGenerator {
 
     //Static configuration variables.
     private final static int MIN_DOOR_NUMBER = 1;
-    private final static int MAX_DOOR_NUMBER = 11;
+    private final static int MAX_DOOR_NUMBER = 99;
 
     //List of validators for internal use.
     private List<INumberValidatorStrategy> validators;
